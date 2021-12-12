@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### 📆  어제보다 오늘 더 열씨미, 더 잘하자❗️❗️👍
+##### 어제보다 오늘 더 열씨미, 더 잘하자❗️❗️👍 
 
 <!--
 **westssun/westssun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
