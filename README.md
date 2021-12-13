@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://devfunny.tistory.com/"><img src="https://img.shields.io/badge/My%20Dev%20Blog%20:%20https://devfunny.tistory.com/-F5788D?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://devfunny.tistory.com/"/></a>&nbsp
+  <a href="https://devfunny.tistory.com/"><img src="https://img.shields.io/badge/My%20Dev%20Blog%20:%20https://devfunny.tistory.com/-black?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://devfunny.tistory.com/"/></a>&nbsp
 </p>
 
 <p align="center">
