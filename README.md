@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://devfunny.tistory.com/"><img src="https://img.shields.io/badge/My%20Dev%20Blog%20:%20https://devfunny.tistory.com/-black?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://devfunny.tistory.com/"/></a>
+<h3 align="center">🧸 My Blog 🧸 </h3>
+<div align="center" style="text-align:center">
+  <a href="https://devfunny.tistory.com/"><img src="https://img.shields.io/badge/My%20Dev%20Blog%20:%20https://devfunny.tistory.com/-black?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://devfunny.tistory.com/"/></a>
+</div>
 
-![Seohae's GitHub stats](https://github-readme-stats.vercel.app/api?username=westssun&show_icons=true&theme=radical)
-
+<h3 align="center">🧸 Git Status 🧸 </h3>
+<p align="center">
+ <img src=https://github-readme-stats.vercel.app/api?username=westssun&show_icons=true&theme=radical>
+</p>
