@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <h3 align="center">🧸 Git Status 🧸 </h3>
 <p align="center">
- <img src=https://github-readme-stats.vercel.app/api?username=westssun&show_icons=true&theme=radical>
+ <img src=https://github-readme-stats.vercel.app/api?username=westssun&show_icons=true />
 </p>
