@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <h3 align="center">🧸 My Study 🧸 </h3>
 <div align="center" style="text-align:center">
-<a href="https://github.com/westssun/TIL"><img src="https://img.shields.io/badge/TIL-black?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://github.com/westssun/TIL"/></a>
+<a href="https://github.com/westssun/TIL"><img src="https://img.shields.io/badge/TIL-red?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://github.com/westssun/TIL"/></a>
 </div>
