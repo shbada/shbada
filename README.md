@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://github.com/westssun/TIL"><img src="https://img.shields.io/badge/TIL-red?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://github.com/westssun/TIL"/></a>
+
 ##### 어제보다 오늘 더 열씨미, 더 잘하자❗️❗️👍 
 
 <!--
@@ -25,8 +27,3 @@ Here are some ideas to get you started:
 <p align="center">
  <img src=https://github-readme-stats.vercel.app/api?username=westssun&show_icons=true />
 </p>
-
-<h3 align="center">🧸 My Study 🧸 </h3>
-<div align="center" style="text-align:center">
-<a href="https://github.com/westssun/TIL"><img src="https://img.shields.io/badge/TIL-red?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://github.com/westssun/TIL"/></a>
-</div>
