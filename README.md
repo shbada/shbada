@@ -1,29 +1,25 @@
-### Hi there 👋
-<a href="https://github.com/westssun/TIL"><img src="https://img.shields.io/badge/TIL-red?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://github.com/westssun/TIL"/></a>
+<span> <h2>Seohae's Dev Space ⚡</h2>
+<a  href="https://devfunny.tistory.com/"><img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog-7289DA?style=for-the-badge&logo=Dev Blog&logoColor=white"></a>
+<a  href="https://github.com/westssun/TIL"><img alt=" TIL" src="https://img.shields.io/badge/TIL-2CA5E0?style=for-the-badge&logo=TIL&logoColor=white"></a>
+<a  href="https://github.com/westssun?tab=repositories" target="_blank"><img alt="Dev Repository" src="https://img.shields.io/badge/Dev Repository%20-%230077B5.svg?&style=for-the-badge&logo=Dev Repository&logoColor=white" /></a></span>
+   
+ </div>
+   
+   
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=westssun&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="westssun" />
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=westssun&theme=dark" alt="SauravMukherjee" /></td>
+  </tr>
+</table>
 
-##### 어제보다 오늘 더 열씨미, 더 잘하자❗️❗️👍 
+<div align="center">
+<p><img src="https://github-profile-trophy.vercel.app/?username=westssun&column=4&margin-w=5&margin-h=5&theme=darkhub"></p>
+  </div>
 
-<!--
-**westssun/westssun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![westssun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=westssun&theme=xcode)](https://git.io/westssun)
+   
+   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="center">🧸 My Blog 🧸 </h3>
-<div align="center" style="text-align:center">
-  <a href="https://devfunny.tistory.com/"><img src="https://img.shields.io/badge/My%20Dev%20Blog%20:%20https://devfunny.tistory.com/-black?style=for-the-badge&logo=aurelia&logoColor=fff&link=https://devfunny.tistory.com/"/></a>
-</div>
-
-<h3 align="center">🧸 Git Status 🧸 </h3>
-<p align="center">
- <img src=https://github-readme-stats.vercel.app/api?username=westssun&show_icons=true />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/westssun.svg?style=social&label=Follow)](https://github.com/westssun?tab=followers)
