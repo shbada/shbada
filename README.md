@@ -1,7 +1,7 @@
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
   <a href="https://devfunny.tistory.com/">
-    <img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog-7289DA?style=for-the-badge&logo=Dev Blog&logoColor=white">
+    <img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog : devfunny.tistory.com-7289DA?style=for-the-badge&logo=Dev Blog&logoColor=white">
   </a>
   <br/>
   <a href="https://github.com/seohaem/TIL">
