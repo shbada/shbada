@@ -38,7 +38,7 @@
   
   <h5 align="center">🪄 최신 업데이트 포스팅 바로가기 🪄</h5>
   
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devfunny)]([https://github.com/loosie/github-readme-tistory-card])
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devfunny&postId=)]([https://github.com/loosie/github-readme-tistory-card])
 
   <span>
     <h1>Seohae's Dev Space ⚡</h1>
