@@ -46,11 +46,6 @@
         </td>
       </tr>
     </table>
-    <div align="center">
-      <p>
-        <img src="https://github-profile-trophy.vercel.app/?username=seohaem&column=4&margin-w=5&margin-h=5&theme=darkhub">
-      </p>
-    </div>
 </div>
 
 
