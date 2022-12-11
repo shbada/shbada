@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-<h1 align="center">:fire: Seohae's Repository List</h1>
+<h1 align="center">:fire: Dev Repository List</h1>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
