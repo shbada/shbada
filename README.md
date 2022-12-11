@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-<h1 align="center">Seohae's Repository List</h1>
+<h1 align="center">:fire: Seohae's Repository List</h1>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -23,7 +23,7 @@
 | <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=Spring Security&logoColor=white" /> | https://github.com/seohaem/spring-security 
 | <img src="https://img.shields.io/badge/algorithm-00BCB4?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/algorithm
 
-<h1 align="center">Let's Get Connected</h1>
+<h1 align="center">:star2: Let's Get Connected</h1>
 
   <a href="https://devfunny.tistory.com/">
     <img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog-7289DA?style=for-the-badge&logo=Dev Blog&logoColor=white">
@@ -36,12 +36,12 @@
   </a>  
   </span>
   
-  <h5 align="center">🪄 최신 업데이트 포스팅 바로가기 🪄</h5>
+  <h5 align="center">:heartbeat: 최신 업데이트 포스팅 바로가기 :heartbeat:</h5>
   
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devfunny)](https://devfunny.tistory.com)
 
   <span>
-    <h1>Seohae's Dev Space ⚡</h1>
+    <h1>:notes: Seohae's Dev Space</h1>
     <table>
       <tr>
         <td>
