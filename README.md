@@ -9,18 +9,18 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-|  <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />| https://github.com/seohaem/java 
-| <img alt="spring" src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/spring 
-| <img alt="jpa" src="https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/jpa 
-| <img alt="parallelProgramming " src="https://img.shields.io/badge/parallelProgramming-%23ED8B00.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/parallel-programming 
-| <img alt="webflux" src="https://img.shields.io/badge/webflux-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/webflux 
-| <img alt="msa" src="https://img.shields.io/badge/msa-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/msa 
-| <img alt="kafka" src="https://img.shields.io/badge/kafka-231F20.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/kafka
-| <img alt="ddd" src="https://img.shields.io/badge/ddd-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/ddd 
-| <img alt="kotlin" src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/kotlin 
-| <img alt="springBatch" src="https://img.shields.io/badge/springBatch-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/springbatch 
-| <img alt="springSecurity" src="https://img.shields.io/badge/springSecurity-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> | https://github.com/seohaem/spring-security 
-| <img alt="algorithm" src="https://img.shields.io/badge/algorithm-00BCB4.svg?&style=for-the-badge&logo=spring&logoColor=white" />| https://github.com/seohaem/algorithm
+| <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/java 
+| <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/spring 
+| <img src="https://img.shields.io/badge/jpa-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/jpa 
+| <img src="https://img.shields.io/badge/parallel_programming-007396?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/parallel-programming 
+| <img src="https://img.shields.io/badge/webflux-007396?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/webflux 
+| <img src="https://img.shields.io/badge/msa-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/msa 
+| <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka" /> | https://github.com/seohaem/kafka
+| <img src="https://img.shields.io/badge/ddd-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/ddd 
+| <img src="https://img.shields.io/badge/kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white"/>  | https://github.com/seohaem/kotlin 
+| <img src="https://img.shields.io/badge/spring_batch-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/springbatch 
+| <img src="https://img.shields.io/badge/spring_security-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/spring-security 
+| <img src="https://img.shields.io/badge/algorithm-00BCB4?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/algorithm
 
 <h1 align="center">Let's Get Connected</h1>
 
