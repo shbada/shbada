@@ -35,7 +35,7 @@
  
  〰
   
-<h3 align="center">📕 현재진행중 📕</h3>
+<h3 align="center">📕 In Progress 📕</h3>
   
 | Project Name      | Description | 
 | :---:        |    :----   |  
