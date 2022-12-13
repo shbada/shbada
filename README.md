@@ -41,7 +41,7 @@
 | :---:        |    :----   |  
 | <img src="https://img.shields.io/badge/parallel%20programming-ED2761?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/java-concurrency
 | <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>  | https://github.com/seohaem/java-to-kotlin
-| <img src="https://img.shields.io/badge/ddd-F7931E?style=flat&logo=Spring&logoColor=white" /> | 
+| <img src="https://img.shields.io/badge/ddd-F7931E?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/ddd-lecture1
   
 <br />
   
