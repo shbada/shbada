@@ -11,6 +11,7 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
+| <img src="https://img.shields.io/badge/factory-F40D12?style=flat&logo=CodeProject&logoColor=white"/> | https://github.com/seohaem/factory 
 | <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/java 
 | <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/spring 
 | <img src="https://img.shields.io/badge/jpa-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/jpa 
@@ -26,15 +27,6 @@
 | <img src="https://img.shields.io/badge/algorithm-00BCB4?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/algorithm
 
   〰
-  
- <h3 align="center" style="color:red;">📃 Everyday 📃</h3>
-  
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| <img src="https://img.shields.io/badge/factory-F40D12?style=flat&logo=CodeProject&logoColor=white"/> | https://github.com/seohaem/factory 
-| <img src="https://img.shields.io/badge/algorithm-00BCB4?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/java_algorithm
- 
- 〰
   
 <h3 align="center">📕 In Progress 📕</h3>
   
