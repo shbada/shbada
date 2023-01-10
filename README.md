@@ -24,7 +24,6 @@
 | <img src="https://img.shields.io/badge/spring%20batch-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/springbatch 
 | <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=Spring Security&logoColor=white" /> | https://github.com/seohaem/spring-security
 | <img src="https://img.shields.io/badge/algorithm-00BCB4?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/algorithm
-| <img src="https://img.shields.io/badge/factory-F40D12?style=flat&logo=CodeProject&logoColor=white"/> | https://github.com/seohaem/factory 
 
    〰
 
@@ -33,7 +32,6 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | <img src="https://img.shields.io/badge/algorithm-00BCB4?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/java_algorithm
-| <img src="https://img.shields.io/badge/factory-F40D12?style=flat&logo=CodeProject&logoColor=white"/> | https://github.com/seohaem/factory 
 
  〰
   
