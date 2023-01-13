@@ -25,14 +25,6 @@
 | <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=Spring Security&logoColor=white" /> | https://github.com/seohaem/spring-security
 | <img src="https://img.shields.io/badge/algorithm-00BCB4?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/algorithm
 
- 〰
-  
-<h3 align="center">📕 In Progress 📕</h3>
-  
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| <img src="https://img.shields.io/badge/parallel%20programming-ED2761?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/java-concurrency
-
 <br />
   
 <h1 align="center">:star2: Let's Get Connected</h1>
