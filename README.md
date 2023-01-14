@@ -5,27 +5,6 @@
 </p>
 
 <div align="center">
-<h1 align="center">:fire: Dev Repository List</h1>
-
-<h3 align="center" style="color:red;">📚 History 📚</h3>
-
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/java 
-| <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/spring 
-| <img src="https://img.shields.io/badge/jpa-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/jpa 
-| <img src="https://img.shields.io/badge/parallel%20programming-ED2761?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/parallel-programming 
-| <img src="https://img.shields.io/badge/webflux-ED2761?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/webflux 
-| <img src="https://img.shields.io/badge/msa-F7931E?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/msa 
-| <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka" /> | https://github.com/seohaem/kafka
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /> | https://github.com/seohaem/docker
-| <img src="https://img.shields.io/badge/ddd-F7931E?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/ddd 
-| <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>  | https://github.com/seohaem/kotlin 
-| <img src="https://img.shields.io/badge/spring%20batch-6DB33F?style=flat&logo=Spring&logoColor=white" /> | https://github.com/seohaem/springbatch 
-| <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=Spring Security&logoColor=white" /> | https://github.com/seohaem/spring-security
-| <img src="https://img.shields.io/badge/algorithm-00BCB4?style=flat&logo=OpenJDK&logoColor=white"/> | https://github.com/seohaem/algorithm
-
-<br />
   
 <h1 align="center">:star2: Let's Get Connected</h1>
 
