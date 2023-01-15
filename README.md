@@ -21,9 +21,6 @@
   <a href="https://devfunny.tistory.com/">
     <img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog-7289DA?style=for-the-badge&logo=Dev Blog&logoColor=white">
   </a>
-  <a href="https://github.com/seohaem/TIL">
-    <img alt=" TIL" src="https://img.shields.io/badge/TIL-2CA5E0?style=for-the-badge&logo=TIL&logoColor=white">
-  </a>
   <a href="https://github.com/seohaem?tab=repositories" target="_blank">
     <img alt="Dev Repository" src="https://img.shields.io/badge/Dev Repository%20-%230077B5.svg?&style=for-the-badge&logo=Dev Repository&logoColor=white" />
   </a>  
