@@ -14,7 +14,7 @@
 | [<img src="https://img.shields.io/badge/2017년-41454A?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/2017old) |
 | [<img src="https://img.shields.io/badge/2021년 7월 ~ 2022년-41454A?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/2021to2022) |
 | [<img src="https://img.shields.io/badge/2023-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/2023) |
-| [<img src="https://img.shields.io/badge/TIL-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/TIL) |
+| [<img src="https://img.shields.io/badge/Wiki-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/Wiki) |
 | [<img src="https://img.shields.io/badge/사이드 프로젝트-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/everydayProject) |
 
 <br />
