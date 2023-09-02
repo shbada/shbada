@@ -7,12 +7,11 @@
 <div align="center">
 <h1 align="center">:fire: Dev Repository List</h1>
 
-<h3 align="center" style="color:red;">✅ Today I Learned </h3>
+<h3 align="center" style="color:red;">✅ Everything I Learned </h3>
 
 | Project Name |
 | :---:        |
 | [<img src="https://img.shields.io/badge/Wiki-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/Wiki) |
-| [<img src="https://img.shields.io/badge/사이드 프로젝트-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/everydayProject) |
 
 <br />
 
