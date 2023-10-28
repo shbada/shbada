@@ -9,7 +9,7 @@
 
 <h3 align="center" style="color:red;">✅ Everything I Learned </h3>
 
-| Project Name |
+| Let's Go WIKI |
 | :---:        |
 | [<img src="https://img.shields.io/badge/Wiki-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/Wiki) |
 
