@@ -11,7 +11,7 @@
 
 | Let's Go WIKI |
 | :---:        |
-| [<img src="https://img.shields.io/badge/Wiki-E34F26?style=for-the-badge&logoColor=white"/>](seohaebada.github.io) |
+| [<img src="https://img.shields.io/badge/seohaebada.github.io-E34F26?style=for-the-badge&logoColor=white"/>](seohaebada.github.io) |
 
 <br />
 
