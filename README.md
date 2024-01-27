@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=31A8FF&height=150&section=header&text=study&fontSize=70&animation=twinkling)
 
 <p align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohaebada&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshbada&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 | Let's Go WIKI |
 | :---:        |
-| [<img src="https://img.shields.io/badge/shbada.github.io-E34F26?style=for-the-badge&logoColor=white"/>](https://seohaebada.github.io/) |
+| [<img src="https://img.shields.io/badge/shbada.github.io-E34F26?style=for-the-badge&logoColor=white"/>](https://shbada.github.io/) |
 
 <br />
 
@@ -20,16 +20,16 @@
 
 | Project Name |
 | :---:        |
-| [<img src="https://img.shields.io/badge/2017년-41454A?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/2017old) |
-| [<img src="https://img.shields.io/badge/2021년 7월 ~ 2022년-41454A?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/2021to2022) |
-| [<img src="https://img.shields.io/badge/2023년 1월 ~ 2023년 7월-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/seohaebada/2023) |
+| [<img src="https://img.shields.io/badge/2017년-41454A?style=for-the-badge&logoColor=white"/>](https://github.com/shbada/2017old) |
+| [<img src="https://img.shields.io/badge/2021년 7월 ~ 2022년-41454A?style=for-the-badge&logoColor=white"/>](https://github.com/shbada/2021to2022) |
+| [<img src="https://img.shields.io/badge/2023년 1월 ~ 2023년 7월-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/shbada/2023) |
 
 <h1 align="center">:star2: Let's Get Connected</h1>
 
   <a href="https://devfunny.tistory.com/">
     <img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog-7289DA?style=for-the-badge&logo=Dev Blog&logoColor=white">
   </a>
-  <a href="https://github.com/seohaebada?tab=repositories" target="_blank">
+  <a href="https://github.com/shbada?tab=repositories" target="_blank">
     <img alt="Dev Repository" src="https://img.shields.io/badge/Dev Repository%20-%230077B5.svg?&style=for-the-badge&logo=Dev Repository&logoColor=white" />
   </a>  
   </span>
@@ -45,9 +45,9 @@
     <table>
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=shbada&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="seohaebada" />
+          <img src="https://github-readme-stats.vercel.app/api?username=shbada&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="shbada" />
         <td>
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seohaebada&theme=dark" alt="shbada" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shbada&theme=dark" alt="shbada" />
         </td>
       </tr>
     </table>
