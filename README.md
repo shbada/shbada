@@ -41,7 +41,7 @@
 <br />
 
   <span>
-    <h1>:notes: Seohae's Dev Space</h1>
+    <h1>:notes: Dev Space</h1>
     <table>
       <tr>
         <td>
